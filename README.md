@@ -1,2 +1,2 @@
 # GensouPlusPlus
-Another compiler for gensoukyo in the outside world
+Another compiler for gensoukyou in the outside world
